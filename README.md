@@ -5,6 +5,7 @@ Simple weather app using DJango and Open Weather API.
 ##### Prerequisites
 * Pycharm IDE
 * Pip package manager
+* [Open weather API account](https://home.openweathermap.org/users/sign_up)
 
 #### Steps to install and run the app
 * <b>Step One:</b> Install git and git clone this repository.
